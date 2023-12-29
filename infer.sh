@@ -1,0 +1,2 @@
+# python detect_ua.py --data ./data/ua_detrac.yaml  --weights /home/hyl/data/yolov5/runs/train/exp11/weights/best.pt --project /data/hyl/guangxizhongqi/UA_DETRAC/data/results
+python detect_ua_single_floder.py --data ./data/ua_detrac.yaml  --weights /home/hyl/data/yolov5/runs/train/exp11/weights/best.pt --source /home/hyl/data/yolov5/imgs/gx
